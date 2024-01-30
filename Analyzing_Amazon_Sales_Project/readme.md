@@ -32,7 +32,7 @@ Link [Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Interns
 
 ![Screenshot 2024-01-30 230920](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/22d617e4-c9c6-40a3-a0cd-3074bb34ba8d)
 
-## Power Bi Dashboard 
+## Analyzing Amazon Sales Data Dashboard 
 [link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Dashboard.pbix)
 
 ## Technologies Used:
