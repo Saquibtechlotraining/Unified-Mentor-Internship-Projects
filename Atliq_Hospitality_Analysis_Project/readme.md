@@ -24,6 +24,17 @@
 ## Model View 
 ![Screenshot 2024-01-30 232755](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/37b458f4-7ff7-4b4e-a4fb-6bdbe03bac59)
 
+## Atliq Hospitality Analysis Dashboard
+[Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Atliq%20Hospitality%20Analysis%20Dashboard.pbix)
+
+## Technlogies Used :
+
+① Python
+
+② Pandas
+
+③ Power Bi
+
 
 
 
