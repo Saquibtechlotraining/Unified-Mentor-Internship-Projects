@@ -1,7 +1,12 @@
 # Analyzing Amazon Sales Data Project
 
-## Project Details and the Problem Statement
-Link [Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Project%201_Analyzing%20Amazon%20Sales%20data.pdf)
+![Screenshot 2024-03-06 165450](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e41a67fd-d04f-4062-bbfa-4e5891493036)
+
+## Problem Statement:
+Sales management has gained importance to meer increasing competition and the need for improvement methods of distribution to reduce cost to increase profits. Sales management today is the most important function in a commercial and business enterprices.
+
+## Project Details and Dataset below:
+[Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Project%201_Analyzing%20Amazon%20Sales%20data.pdf)
 
 ## Table of Contents
 
@@ -20,6 +25,10 @@ Link [Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Interns
 ⑦ Amazon Sales Data Insights (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf)
 
 ⑧ Amazon Sales Data Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20Data%20Report.pdf)
+
+## Mock-up Dashboard
+
+![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/bab2ff45-2f41-4440-aca2-81a6b40f8170)
 
 ## Dashboard
 ![Screenshot 2024-01-30 201232](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/85088534-37fc-414c-b61f-3d9c86024f88)
