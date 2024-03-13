@@ -31,9 +31,9 @@ provide them with insights from their historical data.
 
 #![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/d5e2e1ba-56e7-4774-88aa-ebecc8f64dba)
 
-## Dashboard 
+## Dashboard
 
-![Screenshot 2024-01-30 212834](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/30d11229-113f-42d2-9784-8b2f083088d1)
+![Screenshot 2024-03-13 054856](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/19d2bfbe-fc29-4dc6-9d55-b34539882f60)
 
 ![Screenshot 2024-01-30 212941](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/6a43d413-d0ae-4ad0-ad52-bf56a3d9f653)
 
