@@ -33,7 +33,8 @@ Sales management has gained importance to meer increasing competition and the ne
 ![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/bab2ff45-2f41-4440-aca2-81a6b40f8170)
 
 ## Dashboard
-![Screenshot 2024-01-30 201232](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/85088534-37fc-414c-b61f-3d9c86024f88)
+
+![Screenshot 2024-03-13 054440](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/b8a35c3c-f4a4-4dd6-bcbb-9899b3a8e3ef)
 
 ![Screenshot 2024-01-30 201535](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e6284c07-a006-45e0-a17f-8769c7acc430)
 
