@@ -44,8 +44,14 @@ Sales management has gained importance to meer increasing competition and the ne
 
 ![Screenshot 2024-01-30 230920](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/22d617e4-c9c6-40a3-a0cd-3074bb34ba8d)
 
-## Analyzing Amazon Sales Data Dashboard 
-[link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Dashboard.pbix)
+## Insights and Recommendation:
+![Amazon Sales Data Insights_page-0001](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/426355f4-b9e0-4f14-b6eb-c7bbe2e1129b)
+
+![Amazon Sales Data Insights_page-0002](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/25181983-b319-4a0a-9275-0714ecd5ffb8)
+
+![Amazon Sales Data Insights_page-0003](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/031f8fc0-b0bd-4803-ba53-f91ffbd0d6d4)
+
+![Amazon Sales Data Insights_page-0004](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/caeac660-0681-4443-845d-f1f7a9797b79)
 
 ## Technologies Used:
 
