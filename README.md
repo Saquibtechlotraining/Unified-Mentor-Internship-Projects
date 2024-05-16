@@ -7,5 +7,6 @@
 ## For a one-month internship, I was assigned two projects:
 
  ① [Analyzing Amazon Sales Data](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Analyzing_Amazon_Sales_Project)
+ 
  ② [Atliq Hospitality Analysis](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Atliq_Hospitality_Analysis_Project)
 
