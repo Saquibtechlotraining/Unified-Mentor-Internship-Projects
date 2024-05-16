@@ -1,6 +1,5 @@
 # Atliq Hospitality Analysis Project
 
-Dashboard Link: https://www.novypro.com/project/atliq-hospitality-analysis-power-bi-8
 
 ![Screenshot 2024-03-06 171000](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/ad560d03-5aee-4879-8afb-f38c87c5c9a4)
 
