@@ -1,7 +1,5 @@
 # Analyzing Amazon Sales Data Project
 
-Dashboard Link:  https://www.novypro.com/project/analyzing-amazon-sales-data-power-bi
-
 ![Screenshot 2024-03-06 165450](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e41a67fd-d04f-4062-bbfa-4e5891493036)
 
 ## Problem Statement:
